@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\Torrent\Server\DAL\bin\Debug\TorrentDB.mdf
+C:\Users\DELL\Desktop\Torrent\Server\DAL\bin\Debug\TorrentDB_log.ldf
+C:\Users\DELL\Desktop\Torrent\Server\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\Desktop\Torrent\Server\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\Torrent\Server\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\Torrent\Server\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Desktop\Torrent\Server\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Desktop\Torrent\Server\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

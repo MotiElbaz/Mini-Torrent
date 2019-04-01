@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Torrent\Server\Test\bin\Debug\TorrentDB.mdf
+C:\Users\DELL\Desktop\Torrent\Server\Test\bin\Debug\TorrentDB_log.ldf
+C:\Users\DELL\Desktop\Torrent\Server\Test\bin\Debug\Test.pdb
+C:\Users\DELL\Desktop\Torrent\Server\Test\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\Torrent\Server\Test\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\Torrent\Server\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Torrent\Server\Test\obj\Debug\Test.pdb
+C:\Users\DELL\Desktop\Torrent\Server\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Torrent\Server\Test\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\DELL\Desktop\Torrent\Server\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Torrent\Server\Test\bin\Debug\Test.dll.config
+C:\Users\DELL\Desktop\Torrent\Server\Test\bin\Debug\Test.dll
+C:\Users\DELL\Desktop\Torrent\Server\Test\obj\Debug\Test.dll
